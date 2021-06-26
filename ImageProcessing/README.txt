@@ -1,4 +1,3 @@
-This project is still ongoing.
 bg.txt contains each negative pictures paths
 pos.txt contains:img, num objects, start point, rect coordinates
 
